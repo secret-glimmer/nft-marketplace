@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/elPoeta/nft-marketplace">
+  <a href="https://github.com/secret-glimmer/nft-marketplace">
     <img src="images/logo.png" alt="Logo" width="300" height="300" style="border-radius:5px">
   </a>
  <h3 align="center">NFT Marketplace</h3>
@@ -17,7 +17,7 @@
   <p align="center">
     An awesome Web3 DAPP!
     <br />
-    <a href="https://github.com/elPoeta/nft-marketplace"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/secret-glimmer/nft-marketplace"><strong>Explore the docs »</strong></a>
     <br />
     ·
     <a href="https://poether-nft.vercel.app/">View Demo</a>
@@ -106,7 +106,7 @@ _Use yarn or npm to install dependencies_
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/elPoeta/nft-marketplace.git
+   git clone https://github.com/secret-glimmer/nft-marketplace.git
    ```
 
 2. Install NPM packages
@@ -255,9 +255,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Leonardo Tosetto - leonardo.a.tosetto@gmail.com
+Secret Glimmer - joykeeper1028@gmail.com
 
-Project Link: [https://github.com/elPoeta/nft-marketplace](https://github.com/elPoeta/nft-marketplace)
+Project Link: [https://github.com/secret-glimmer/nft-marketplace](https://github.com/secret-glimmer/nft-marketplace)
 
 Demo: [https://poether-nft.vercel.app/](https://poether-nft.vercel.app/)
 
@@ -291,18 +291,17 @@ Demo: [https://poether-nft.vercel.app/](https://poether-nft.vercel.app/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/elPoeta/nft-marketplace.svg?style=for-the-badge
-[contributors-url]: https://github.com/elPoeta/nft-marketplace/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/elPoeta/nft-marketplace.svg?style=for-the-badge
-[forks-url]: https://github.com/elPoeta/nft-marketplace/network/members
-[stars-shield]: https://img.shields.io/github/stars/elPoeta/nft-marketplace.svg?style=for-the-badge
-[stars-url]: https://github.com/elPoeta/nft-marketplace/stargazers
-[issues-shield]: https://img.shields.io/github/issues/elPoeta/nft-marketplace.svg?style=for-the-badge
-[issues-url]: https://github.com/elPoeta/nft-marketplace/issues
-[license-shield]: https://img.shields.io/github/license/elPoeta/nft-marketplace.svg?style=for-the-badge
-[license-url]: https://github.com/elPoeta/nft-marketplace/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/secret-glimmer/nft-marketplace.svg?style=for-the-badge
+[contributors-url]: https://github.com/secret-glimmer/nft-marketplace/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/secret-glimmer/nft-marketplace.svg?style=for-the-badge
+[forks-url]: https://github.com/secret-glimmer/nft-marketplace/network/members
+[stars-shield]: https://img.shields.io/github/stars/secret-glimmer/nft-marketplace.svg?style=for-the-badge
+[stars-url]: https://github.com/secret-glimmer/nft-marketplace/stargazers
+[issues-shield]: https://img.shields.io/github/issues/secret-glimmer/nft-marketplace.svg?style=for-the-badge
+[issues-url]: https://github.com/secret-glimmer/nft-marketplace/issues
+[license-shield]: https://img.shields.io/github/license/secret-glimmer/nft-marketplace.svg?style=for-the-badge
+[license-url]: https://github.com/secret-glimmer/nft-marketplace/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/leonardo-tosetto
 [product-screenshot]: images/screenshot.gif
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
