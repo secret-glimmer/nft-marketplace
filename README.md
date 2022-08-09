@@ -19,9 +19,6 @@
     <br />
     <a href="https://github.com/secret-glimmer/nft-marketplace"><strong>Explore the docs »</strong></a>
     <br />
-    ·
-    <a href="https://poether-nft.vercel.app/">View Demo</a>
-    ·
  </p>
 </div>
 
@@ -60,8 +57,6 @@
 #### Web3 Dapp. Buy, sell, and showcase NFTs, over Polygon ethereum network.
 
 ##### Inspired by crypto.com/nft
-
-[![Product Name Screen Shot][product-screenshot]](https://poether-nft.vercel.app/)
 
 </div>
 
@@ -241,10 +236,6 @@ _Metamask hardhat network configuartion_
  <img src="images/polygonfaucet.png" alt="Logo" width="900" height="300" style="border-radius:5px">
 </div>
 
-## Demo
-
-#### **[https://poether-nft.vercel.app/](https://poether-nft.vercel.app/)**
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
@@ -258,8 +249,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Secret Glimmer - joykeeper1028@gmail.com
 
 Project Link: [https://github.com/secret-glimmer/nft-marketplace](https://github.com/secret-glimmer/nft-marketplace)
-
-Demo: [https://poether-nft.vercel.app/](https://poether-nft.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
